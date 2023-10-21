@@ -15,7 +15,7 @@ Key Features:
 
 ## Demo
 
-You can view a live demo of the app [here](https://www.youtube.com/watch?v=mP6fmBPX0eg).
+Usage Video [here](https://www.youtube.com/watch?v=mP6fmBPX0eg).
 Netlify live  [here](https://snazzy-phoenix-19d8f5.netlify.app/).
 
 ## Getting Started
@@ -62,6 +62,6 @@ Marker icons are provided by Leaflet.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Author
-Your Avinash
+Avinash
 GitHub: https://github.com/aviket
 
